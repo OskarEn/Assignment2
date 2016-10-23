@@ -1,0 +1,6 @@
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Oskar Enmalm\Documents\Malmö HT16\Assignment 2 - Working Folder\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
